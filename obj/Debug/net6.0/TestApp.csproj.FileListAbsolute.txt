@@ -1,0 +1,15 @@
+/home/kali/Labo/HTB/visual/TestApp/bin/Debug/net6.0/TestApp
+/home/kali/Labo/HTB/visual/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/home/kali/Labo/HTB/visual/TestApp/bin/Debug/net6.0/TestApp.runtimeconfig.json
+/home/kali/Labo/HTB/visual/TestApp/bin/Debug/net6.0/TestApp.dll
+/home/kali/Labo/HTB/visual/TestApp/bin/Debug/net6.0/TestApp.pdb
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.dll
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/refint/TestApp.dll
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.pdb
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/TestApp.genruntimeconfig.cache
+/home/kali/Labo/HTB/visual/TestApp/obj/Debug/net6.0/ref/TestApp.dll
